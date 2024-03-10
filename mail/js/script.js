@@ -21,7 +21,7 @@ Consigli del giorno:
 
 //Creo l'array con le varie mail
 const email = ["samuele@gmail.com", "alessandro@gmail.com", "fabio@gmail.com", "michele@gmail.com", "elisabetta@gmail.com",];
-//Chiedo all'utente la sua pass
+//Chiedo all'utente la sua mail
 const userEmail = prompt("Inserisci la tua email!")
 let emailFound = false;
 //Controllo che la mia mail sia tra quelle comprese nell'array
